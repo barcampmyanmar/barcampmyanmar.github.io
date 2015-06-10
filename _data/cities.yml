@@ -72,9 +72,6 @@ lashio:
     - year: 2013
       img: barcamp_lashio_2013.jpg
 
-    - year: 2012
-      img: barcamp_lashio_2013.jpg        
-
 pakokku:
   name: Pakokku
   img: barcamp_pakokku_2013.jpg
