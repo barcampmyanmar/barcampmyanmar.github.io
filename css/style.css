@@ -1,0 +1,134 @@
+.fa-facebook-square:before {
+  content: "\f082";
+  color: #3b5998;
+}
+.fa-globe:before {
+  content: "\f0ac";
+  color: #009966;
+}
+@media screen and (min-width: 768px) {
+  #header {
+    position: relative;
+    background-color: #009966;
+    box-shadow: inset 0 3px 2px rgba(0, 0, 0, 0.25), 0 3px 2px rgba(0, 0, 0, 0.25);
+  }
+  #header a {
+    text-decoration: none;
+    color: #fff;
+  }
+  #show {
+    text-align: center;
+    padding: 120px 20px 20px;
+    height: 400px;
+    background: #ffffff url(/img/show_bg.jpg) center repeat;
+  }
+  .content {
+    background-color: #fff;
+    padding: 20px 0 30px;
+  }
+  .front .content {
+    border-top: 1px solid #ececec;
+  }
+  .home-module {
+    padding-bottom: 20px;
+  }
+  #footer {
+    padding: 10px 0;
+    background: #333;
+    color: #009966;
+  }
+  #footer a {
+    text-decoration: none;
+    color: #009966;
+  }
+  .nav {
+    margin-top: 12px;
+    float: right;
+  }
+  .nav li ul {
+    background-color: #fff;
+    border: 1px solid #ececec;
+  }
+  .nav li ul a {
+    color: #009966 !important;
+  }
+  .event-header {
+    text-align: center;
+  }
+  .event-header .big-text {
+    font-size: 26px;
+  }
+  .event-header img {
+    border: 2px solid #ececec;
+  }
+  .event-header .event-info {
+    width: 500px;
+    margin: auto;
+    padding: 10px;
+  }
+  .event-header .event-info a {
+    text-decoration: none;
+    color: #009966;
+  }
+  .event-list [class*='col-'] {
+    min-height: 220px;
+    margin-bottom: 20px;
+  }
+  .event {
+    display: inline-block;
+    text-decoration: none;
+    color: #009966;
+    position: relative;
+  }
+  .event img {
+    display: block;
+    width: 350px;
+    height: auto;
+    border: 2px solid #ececec;
+    transition: linear .3s;
+  }
+  .event .event-info {
+    padding: 5px 10px;
+    background-color: #009966;
+    color: #fff;
+  }
+  .event:hover img {
+    border: 2px solid #009966;
+  }
+  .upcoming-event .event img {
+    display: block;
+    width: 250px;
+    height: 100px;
+  }
+  #site-name sup {
+    font-size: 12px;
+  }
+  .big-text {
+    display: block;
+    font-size: 38px;
+  }
+  .caller {
+    margin-top: 30px;
+  }
+  .caller a {
+    display: inline-block;
+    text-decoration: none;
+    padding: 10px 15px;
+    margin: 0 10px;
+    background-color: #009966;
+    color: #fff;
+  }
+  .author-card img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    box-shadow: inset 0 3px 2px rgba(0, 0, 0, 0.25);
+    margin-right: 15px;
+  }
+  .author-card div {
+    padding: 0 15px;
+  }
+  .author-card .big-text {
+    font-size: 20px;
+  }
+}

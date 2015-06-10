@@ -1,0 +1,134 @@
+yangon:
+  name: Yangon
+  img: barcamp_yangon_2010.jpg
+  facebook: barcampyangon
+  website: http://www.barcampyangon.org
+  events: 
+    - year: 2015
+      img: yangon/2015.jpg
+
+    - year: 2014
+      img: yangon/2014.jpg
+
+    - year: 2013
+      img: yangon/2013.jpg
+
+    - year: 2012
+      img: barcamp_yangon_2010.jpg
+
+    - year: 2011
+      img: barcamp_yangon_2010.jpg
+
+    - year: 2010
+      img: barcamp_yangon_2010.jpg
+
+mandalay:
+  name: Mandalay
+  img: barcamp_mandalay_2011.jpg
+  facebook: barcampmandalay
+  website: http://www.barcampmandalay.org
+  events: 
+    - year: 2015
+      img: mandalay/2015.jpg
+
+    - year: 2014
+      img: mandalay/2014.jpg
+
+    - year: 2013
+      img: mandalay/2013.jpg
+
+    - year: 2012
+      img: mandalay/2012.jpg
+
+    - year: 2011
+      img: barcamp_mandalay_2011.jpg    
+
+pyay:
+  name: Pyay
+  img: barcamp_pyay_2012.jpg
+  events: 
+    # - year: 2015
+    #   img: barcamp_pyay_2012.jpg
+
+    - year: 2014
+      img: barcamp_pyay_2012.jpg
+
+    - year: 2013
+      img: barcamp_pyay_2012.jpg
+    
+    - year: 2012
+      img: barcamp_pyay_2012.jpg
+
+lashio:
+  name: Lashio
+  img: barcamp_lashio_2013.jpg
+  events: 
+    # - year: 2015
+    #   img: lava.svg
+
+    - year: 2014
+      img: barcamp_lashio_2013.jpg
+
+    - year: 2013
+      img: barcamp_lashio_2013.jpg
+
+    - year: 2012
+      img: barcamp_lashio_2013.jpg        
+
+pakokku:
+  name: Pakokku
+  img: barcamp_pakokku_2013.jpg
+  events: 
+    # - year: 2015
+    #   img: bcmm.svg      
+
+    - year: 2014
+      img: sky.svg
+
+    - year: 2013
+      img: sky.svg
+
+pathein:
+  name: Pathein
+  img: barcamp_pathein_2012.jpg
+  events: 
+    - year: 2013
+      img: lava.svg
+
+    - year: 2012
+      img: sky.svg
+
+taunggyi:
+  name: Taunggyi
+  img: barcamp_taunggyi_2012.jpg
+  events: 
+    - year: 2012
+      img: lava.svg                 
+
+monywa:
+  name: Monywa
+  img: barcamp_monywa_2014.jpg
+  events: 
+    - year: 2014
+      img: lava.svg      
+
+taungoo:
+  name: Taungoo
+  img: barcamp_taungoo_2014.jpg
+  events: 
+    - year: 2014
+      img: lava.svg    
+
+loikaw:
+  name: Loikaw
+  img: barcamp_loikaw_2014.jpg
+  events: 
+    - year: 2013
+      img: lava.svg     
+
+mogok:
+  name: Mogok
+  img: barcamp_mogok_2014.jpg
+  events: 
+    - year: 2013
+      img: lava.svg                        

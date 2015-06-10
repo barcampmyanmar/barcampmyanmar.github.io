@@ -1,0 +1,11 @@
+- name: Barcamp Mandalay
+  img: mandalay/2015.jpg
+  date: July 
+
+- name: Barcamp Lashio
+  img: barcamp_lashio_2012.jpg
+  date: July
+
+- name: Barcamp Pyay
+  img: barcamp_pyay_2012.jpg
+  date: July
